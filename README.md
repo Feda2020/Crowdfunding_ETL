@@ -3,10 +3,11 @@
 ## Table of contents
 
 * [Description](#Description)
-* [Extract, Transform, Load](#Extract,-Transform,-Load)
+* [Extract, Transform, Load](#Extract-Transform-Load)
 * [Create the Contacts DataFrame](#Create-the-Contacts-DataFrame)
 * [Create the Crowdfunding Database](#Create-the-Crowdfunding-Database)
 * [ERD Image](#ERD-Image)
+* [Contributors](#Contributors)
 * [Questions](#Questions)
 * [References](#References)
 
@@ -19,7 +20,7 @@ The work in this project is divided into the following:
 - Create the Contacts DataFrame
 - Create the Crowdfunding Database  
 
-## Extract, Transform, Load
+## Extract-Transform-Load
 
 1. Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns: 
 * "category_id" column 
@@ -78,9 +79,16 @@ In this part we used QuickDBD to sketch an Entity Relationship Diagram (ERD) of 
 
 ![Entity Relationship Diagram](/Resources/crowdfunding_db_schema.png)
 
+## Contributors
+
+This project is a collaboration between:
+
+* [Feda Zidan](https://github.com/Feda2020)
+* [Nathaly Lamas](https://github.com/nanis911)
+
 ## Questions
 
-In case of any additional questions please visit my GitHub link: [Feda2020](https://github.com/Feda2020) 
+In case of any additional questions please visit my GitHub link: [Feda](https://github.com/Feda2020), [Nathaly](https://github.com/nanis911)
 
 ## References
 
